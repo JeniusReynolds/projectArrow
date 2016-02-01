@@ -1,5 +1,5 @@
 class Post < ActiveRecord::Base
-	if Rails.env.production?
+
 	validates :user_id, presence: true 
 	validates :image, presence: true
 	
