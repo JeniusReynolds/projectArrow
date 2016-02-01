@@ -1,0 +1,6 @@
+app_key: "yhl53j6vmt25xgh"
+app_secret: ENV["APP_SECRET"]
+access_token: "s2bekq2fis5haytx"
+access_token_secret: ENV["ACCESS_TOKEN_SECRET"]
+user_id: "345387143"
+access_type: "app_folder"
